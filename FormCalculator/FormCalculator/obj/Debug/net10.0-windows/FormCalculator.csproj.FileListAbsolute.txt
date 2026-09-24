@@ -1,0 +1,17 @@
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\bin\Debug\net10.0-windows\FormCalculator.exe
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\bin\Debug\net10.0-windows\FormCalculator.deps.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\bin\Debug\net10.0-windows\FormCalculator.runtimeconfig.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\bin\Debug\net10.0-windows\FormCalculator.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\bin\Debug\net10.0-windows\FormCalculator.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.Form1.resources
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.csproj.GenerateResource.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.AssemblyInfoInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.AssemblyInfo.cs
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.csproj.CoreCompileInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\refint\FormCalculator.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalculator.genruntimeconfig.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\ref\FormCalculator.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormCalculator\FormCalculator\obj\Debug\net10.0-windows\FormCalc.21D5CA85.Up2Date
